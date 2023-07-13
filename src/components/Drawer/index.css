@@ -1,0 +1,33 @@
+.close-container{
+    position: absolute;
+    top: 0px;
+    inset-inline-end: -40px;
+    z-index: 1;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background: #001529; */
+    border-start-start-radius: 0;
+    border-start-end-radius: 6px;
+    border-end-end-radius: 6px;
+    border-end-start-radius: 0;
+    cursor: pointer;
+    transition:  0.3s ease;
+  }
+  
+  .close-button{
+    border: none;
+    background-color: transparent;
+    font-size: 20px;
+    color: #fff;
+  }
+/* 
+  .ant-drawer-header-title{
+    visibility: hidden !important;
+    border-bottom:none;
+  }
+   */

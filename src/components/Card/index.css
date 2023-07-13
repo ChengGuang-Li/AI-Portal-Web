@@ -1,0 +1,38 @@
+.ant-card-meta-description{
+    font-size: 11px;
+}
+.ant-card .ant-card-body {
+    padding: 24px 12px;
+}
+.tags-url{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: #ffffff;
+    border-top: 1px solid #f0f0f0;
+    border-radius: 0 0 8px 8px;
+}
+
+.tags-li{
+    text-align: center;
+    margin: 12px 0;
+}
+
+.tags-container{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 5px;
+    position: "absolute";
+     bottom: 0;
+}
+
+.tags-span{
+    width: 120px;
+    font-size: 10px;
+    margin-right: 10px;
+    /* white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; */
+}

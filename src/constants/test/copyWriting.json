@@ -1,0 +1,1937 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "cko2knmn90cb80a91r08vrwr7",
+                "name": "AI to Write",
+                "slug": "aitowrite",
+                "tagLine": "AI-powered assistant for writing documentation.",
+                "logo": {
+                    "id": "cko2knmrm0cb90a91spcicpzo",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1619680474/icons/aitowrite.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cko2knmy50cbf0a91k7k7141v",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://aitowrite.com/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cknjbtj5lnkfc0a799fjydxwl",
+                "name": "BetterWriter",
+                "slug": "betterwriter",
+                "tagLine": "Chrome extension to write better and faster with GPT-3",
+                "logo": {
+                    "id": "cknjbtj9znkfd0a79qob3r0w6",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1618517984/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/qjfx9v2kivoov4j4fxtg.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cknjbtjcenkff0a79m65edt3p",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://betterwriter.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clbtjm5c8833843f58tzj58wc59",
+                "name": "Chatsonic",
+                "slug": "chatsonic",
+                "tagLine": "Like ChatGPT but with superpowers",
+                "logo": {
+                    "id": "clbtjm5c8833845f58t0wo1apsx",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671378515/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/0d0e413c-79fe-4ab2-b561-7fcc23524731_npyard.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                        "name": "Image Generation",
+                        "slug": "image-generation",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clbtjm5c8833844f58tm0p87vhl",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://writesonic.com/chat",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cld6aee7o1160006dk3aufdex82j",
+                "name": "Contenda",
+                "slug": "contenda-co",
+                "tagLine": "Repurpose your technical content better and faster than an agency using generative AI.",
+                "logo": {
+                    "id": "cld6aee7p1160012dk3arrznz10q",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1674230112/icons/contenda-co.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cld6aee7o1160007dk3an8whwtu8",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://contenda.co/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cklkp2cux0glz0b86c7tg9kzu",
+                "name": "ContentBot.ai",
+                "slug": "contentbot-ai",
+                "tagLine": "GPT-3 Powered Content",
+                "logo": {
+                    "id": "cklkp34mv0gr50b86mj6ep6wt",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1614247168/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/ccrddv4u1z8er0gmk36f.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cklkp2dec0gmg0b868f8t3aij",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://contentbot.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cklkp2dgj0gmi0b86aqoep8c6",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://contentbot.ai/privacy-policy.php",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cklkp2diq0gmk0b8633pmkanc",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://contentbot.ai/terms.php",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#d9d99e",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cl0ju9nez56px0b77mqpiy4jw",
+                "name": "Content  Launch – AI For Marketing",
+                "slug": "contentlaunch-ai",
+                "tagLine": null,
+                "logo": {
+                    "id": "cl0ju9nm256py0b77geq12az1",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1646844826/icons/contentlaunch-ai.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cl0ju9nzz56q80b77yzvpzqs9",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://contentlaunch.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cl0ju9o2a56qa0b776hd4q53w",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://contentlaunch.ai/privacy-policy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cl0ju9o4n56qc0b77h934t16c",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://contentlaunch.ai/terms-and-conditions",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": null,
+                "piesyncId": null,
+                "microsoftFlowId": null,
+                "combideskId": null,
+                "segmentId": null,
+                "integromatId": null,
+                "automateId": null,
+                "trayIoId": null,
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": null,
+                "thirdPartyIntegrationLink": null,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#d074fc",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckoeks2accl6h0a49dl5ybbyu",
+                "name": "Content Villain",
+                "slug": "contentvillain",
+                "tagLine": null,
+                "logo": {
+                    "id": "ckoeks2eocl6i0a490z1lg37x",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1620406769/icons/contentvillain.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckoeks32ycl750a49swgw3vil",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://contentvillain.com/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckoeks354cl770a49q4i3hmhc",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://contentvillain.com/privacy-policy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": null,
+                "piesyncId": null,
+                "microsoftFlowId": null,
+                "combideskId": null,
+                "segmentId": null,
+                "integromatId": null,
+                "automateId": null,
+                "trayIoId": null,
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": null,
+                "thirdPartyIntegrationLink": null,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#6e6261",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckv8bn2osyzai0a612w6za55c",
+                "name": "Conto AI",
+                "slug": "conto-ai",
+                "tagLine": "An affordable AI content creation tool, powered by GPT-3",
+                "logo": {
+                    "id": "ckv8bn2t5yzaj0a61c1lbd5tf",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1635251823/icons/conto-ai.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckv8bn38iyzay0a61lb8i8zeh",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.conto.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckv8bn3aoyzb00a61cms9fgap",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.conto.ai/privacy-policy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckv8bn3cuyzb20a61pwf553dz",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://www.conto.ai/terms-conditions",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#aca4fc",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckm2bnfq5qb100b59ry5pc8xs",
+                "name": "Conversion.ai ",
+                "slug": "conversion-ai",
+                "tagLine": "",
+                "logo": {
+                    "id": "cknzagscghhj20a795iiztbyh",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1619483169/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/inosymblxrakf6njitvy.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckm2bng9xqb1f0b591hny1lol",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.conversion.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckm2bngc7qb1h0b59suabz8bs",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.conversion.ai/privacy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckm2bngelqb1j0b59979vuw3o",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://www.conversion.ai/terms",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#be05fc",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckkokid911qa60b73nfu0u3jw",
+                "name": "CopyAI",
+                "slug": "copy-ai",
+                "tagLine": "GPT-3 powered assistant for writing and brainstorming",
+                "logo": {
+                    "id": "ckkokt8ej1rp40b73278y3zlu",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1612305070/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/lwumruy6fbpftzfu2rxj.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckkokie9h1qb30b73qfd79sl1",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.copy.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckkokiebp1qb50b73xr01uzar",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.copy.ai/privacy-notice",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckkokiedv1qb70b73k4lbw8qu",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://www.copy.ai/terms-of-service",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#48bdbc",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clcetdkwe165224770yri41tfcf5",
+                "name": "CopyCraft AI",
+                "slug": "copycraftai",
+                "tagLine": "Get Great Copy with the Power of AI",
+                "logo": {
+                    "id": "clcetdkwe165225570yrgxqeczbk",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672640280/icons/copycraftai.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clcetdkwe165224870yru7q7trbr",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://copycraftai.com/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clcetdkwe165224970yrax86p2jn",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://copycraftai.com/terms.html",
+                        "sequence": 1,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clcetdkwe165225070yr0w3kt3fe",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://copycraftai.com/privacy.html",
+                        "sequence": 2,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#d7dada",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckq7g6ft49bsy0a98puclt2v2",
+                "name": "Copyhat",
+                "slug": "copyhat",
+                "tagLine": "Say goodbye to boring Tinder openers with your AI wingbot",
+                "logo": {
+                    "id": "ckq7g6fxi9bsz0a980b7dcc7i",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1624330058/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/khcspkzwtubpeuqgtcfi.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckq7g6fzp9bt10a98cm944hzz",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://copyhat.com/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckmq492tn12uk0b54nbp54iu2",
+                "name": "Copy Page",
+                "slug": "copypage-io",
+                "tagLine": null,
+                "logo": {
+                    "id": "ckmq492y212ul0b5492f0k2pz",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1616750929/icons/copypage-io.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckmq493co12uz0b54qm689uv5",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://copypage.io/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": null,
+                "piesyncId": null,
+                "microsoftFlowId": null,
+                "combideskId": null,
+                "segmentId": null,
+                "integromatId": null,
+                "automateId": null,
+                "trayIoId": null,
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": null,
+                "thirdPartyIntegrationLink": null,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#c48cfc",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckstic4n3hyl70a610opshclj",
+                "name": "Copy Shark ",
+                "slug": "copyshark-ai",
+                "tagLine": "Generate AI-powered copy in 1 click",
+                "logo": {
+                    "id": "ckstic4qohyl80a61i81x9nl9",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1630015793/icons/copyshark-ai.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckstic55yhylm0a61t2rlni4q",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.copyshark.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckstic583hylo0a61z1tkqo9w",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.copyshark.ai/privacy-policy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckstic5aahylq0a611xdvx3fz",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://www.copyshark.ai/terms",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#1e222a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckkq74byz9j790b73esxk81s3",
+                "name": "Copysmith",
+                "slug": "copysmith-ai",
+                "tagLine": null,
+                "logo": {
+                    "id": "ckkq74c2q9j7a0b73lwkjl1m7",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1612402269/icons/copysmith-ai.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckkq74ck29j7v0b73g2i8hbuy",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.copysmith.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckkq74clz9j7x0b73pl86m56x",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.copysmith.ai/privacy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckkq74cnw9j7z0b73h4ae61t5",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://www.copysmith.ai/terms-of-service",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": null,
+                "piesyncId": null,
+                "microsoftFlowId": null,
+                "combideskId": null,
+                "segmentId": null,
+                "integromatId": null,
+                "automateId": null,
+                "trayIoId": null,
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": null,
+                "thirdPartyIntegrationLink": null,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#f3ebbd",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckmogth5o0bv00b61ra1tbi9y",
+                "name": "Craftly.AI",
+                "slug": "craftly-ai",
+                "tagLine": " Content In seconds, forget weeks",
+                "logo": {
+                    "id": "ckmogth9w0bv40b617cpj4ha1",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1616651446/icons/craftly-ai.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckmogthou0bvk0b61u56ygafq",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://craftly.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckmogthr00bvn0b61bg5ht0i6",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://craftly.ai/privacy-policy.html",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckmogtht30bvp0b61z8kb6mi5",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://craftly.ai/terms-of-use.html",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckmogy7z70cfj0b61nhejgeyx",
+                        "name": "Press release",
+                        "type": "OTHER",
+                        "url": "https://www.prnewswire.com/news-releases/ai-powered-copywriting-assistant-craftlyai-launches-platform-leveraging-gpt-3-technology-301254082.html",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#d7e2fb",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cklh3ee22jbn80b866x5dc03g",
+                "name": "Drafter AI",
+                "slug": "drafter-ai",
+                "tagLine": "CC Free. Unique. Multi-Language. In 15 secs.",
+                "logo": {
+                    "id": "cklh3ee6hjbn90b865o1l2uyv",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1614028756/icons/drafter-ai.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cklh3eehpjbnj0b866ni8wdh5",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://drafter.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cklh3eejxjbnl0b86hl7m86u2",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://app.drafter.ai/privacy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cklh3eem5jbnn0b8693p7phnz",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://app.drafter.ai/terms",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#dc345c",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clc7a73i31360486713yrbo6ltnu",
+                "name": "Fermat",
+                "slug": "fermat-ws",
+                "tagLine": "Collaborate with AI to unlock your creativity. ",
+                "logo": {
+                    "id": "clc7a73i31360491713y1jpczzd5",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672207739/icons/fermat-ws.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clc7a73i31360487713ymxn9m60n",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://fermat.ws/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#c7c7c7",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckr1omfdnlhf30a04v3jyteie",
+                "name": "Flacked AI",
+                "slug": "flackedai",
+                "tagLine": "A GPT-3 Powered AI writer that can write copies, emails, etc., and it has a better UI.",
+                "logo": {
+                    "id": "ckr1omfhdlhf50a04uevv31wd",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1626157722/icons/flackedai.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckr1omfwulhfo0a04ob419qeh",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.flackedai.com/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckr1omfz0lhfq0a04toznp7pg",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.flackedai.com/privacy-policy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckr1omg17lhfu0a04b7uidd7o",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://www.flackedai.com/terms-of-service",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#191919",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckl5i86ng2no80b86rff6dbw7",
+                "name": "Frase",
+                "slug": "frase-io",
+                "tagLine": "",
+                "logo": {
+                    "id": "ckl5kcf7d2vt60b86jitpfjo5",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1613332211/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/cmr94nktey7c1tzhqlfc.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckl5i87d72np00b86cy1pk8ho",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.frase.io/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckl5i87fg2np20b86eky6ltfb",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://frase.io/privacy-policy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckl5i87hq2np50b862u4npewy",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://frase.io/terms-of-service",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#1cac84",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": true,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckr1pma70lm2i0a98gca1yoev",
+                "name": "GetListing",
+                "slug": "getlisting-co",
+                "tagLine": "Generate Real Estate Listing Descriptions using GPT-3",
+                "logo": {
+                    "id": "ckr1pmab4lm2j0a98vo4m0lih",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1626159276/icons/getlisting-co.svg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckr1pmalxlm2u0a980fw6dnj2",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.getlisting.co/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckr1pmao0lm2w0a98t8yr13za",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.getlisting.co/privacy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#040404",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clfb4472w4290436zyguxp053f6",
+                "name": "Moonbeam",
+                "slug": "gomoonbeam",
+                "tagLine": "Using AI to automate the writing process",
+                "logo": {
+                    "id": "clfb4472w4290496zyg9du36go2",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1678907749/icons/gomoonbeam.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clfb4472w4290456zyg4thm9ehj",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.gomoonbeam.com/privacy",
+                        "sequence": 1,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clfb4472w4290446zygi64wnltl",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.gomoonbeam.com/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clf33o3s810466916zyg81mw2bca",
+                "name": "GrammarlyGO",
+                "slug": "grammarlygo",
+                "tagLine": "A New Generation in Writing",
+                "logo": {
+                    "id": "clf33o3s810466936zygohms6f12",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1678486742/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-03-10_at_23.18.34_n44rr3.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clf33o3s810466926zyg7q42m9y6",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.grammarly.com/grammarlygo",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "ckl55hhac1c7d0b86nvhtz9be",
+                "name": "Headlime",
+                "slug": "headlime",
+                "tagLine": "Marketing copy that writes itself, powered by GPT-3",
+                "logo": {
+                    "id": "ckl55hheo1c7e0b86av7bsc2e",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1612537324/icons/headlime.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "ckl55hi251c800b86nwoxigbq",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://headlime.com/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckl55hi491c820b86vurjg692",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://headlime.com/legal/privacy-policy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "ckl55hi6c1c840b866zlr700q",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://headlime.com/legal/terms-conditions",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#b8ea95",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cknm6jibqzqe80b34cnd1uibe",
+                "name": "Hyperwrite",
+                "slug": "hyperwrite-ai",
+                "tagLine": "",
+                "logo": {
+                    "id": "cknm6jigdzqe90b34ctn1jcwq",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1618690056/icons/hyperwrite-ai.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cknm6jis9zqej0b34qgrw5b3e",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://hyperwrite.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cknm6jiumzqel0b34jiw6lehq",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://hyperwrite.ai/privacy_policy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cknm6jix0zqen0b34w2eo99nz",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://hyperwrite.ai/tos",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#32d6e0",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cksi5nlo2we0s0a17manysrun",
+                "name": "Instoried",
+                "slug": "instoried",
+                "tagLine": "GPT-3 generated headlines",
+                "logo": {
+                    "id": "cksi5nlsewe0t0a174c5takjr",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1629327165/icons/instoried.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cksi5nm34we130a17pryrrj4m",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://instoried.com/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cksi5nm58we150a17snbb4jrj",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://instoried.com/privacy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cksi5nm7bwe170a17fik9vpr7",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://instoried.com/terms",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#060505",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cktdf33l5g4g10a61g67aakzz",
+                "name": "Jarvis AI",
+                "slug": "jarvis-ai",
+                "tagLine": "The Future of AI Writing",
+                "logo": {
+                    "id": "cktdf33p2g4g20a616yyeavjk",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1631220839/icons/jarvis-ai.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cktdf346sg4gl0a618t62nnt9",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.jarvis.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cktdf348qg4gn0a61zi7ohz7t",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.jarvis.ai/privacy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cktdf34apg4gp0a61uwzhm7ce",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://www.jarvis.ai/terms",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#de8ae9",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cl0jtwk3055t10b774fbyimot",
+                "name": "Jasper (previously Jarvis)",
+                "slug": "jasper-ai",
+                "tagLine": "GPT-3 Powered Copywriting",
+                "logo": {
+                    "id": "cl0jtwk6n55t20b77zehwx21f",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1646844794/icons/jasper-ai.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cl0jtwkm455tg0b7752r1wnl7",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.jasper.ai/",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cl0jtwkob55ti0b77hljx8vyb",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://www.jasper.ai/privacy",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cl0jtwkqj55tl0b77wjv21ktm",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://www.jasper.ai/terms",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#32bcfc",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clbfl5fgw89806754akkqqml0or",
+                "name": "Magic Write by Canva",
+                "slug": "magic-write-canva-docs",
+                "tagLine": "Generate text from Canva with GPT-3",
+                "logo": {
+                    "id": "clbfl5fgx89807554akus405vlq",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1581894810/catalog/canva/icon128x128.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clbfl5fgw89806854ak5vfty28j",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.canva.com/magic-write/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clbflheai916233560vg4feokcb",
+                        "name": "Read the blog post",
+                        "type": "OTHER",
+                        "url": "https://www.canva.com/newsroom/news/magic-write-ai-text-generator/",
+                        "sequence": 1,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clbfl5fgw89806954akeeetswax",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://about.canva.com/terms-of-use",
+                        "sequence": 2,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clbfl5fgw89807054akllsv4fj1",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://about.canva.com/privacy-policy",
+                        "sequence": 3,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#06c3cb",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cla76yan9883072556uqg2bpc55",
+                "name": "Mentum.ai",
+                "slug": "mentum-ai",
+                "tagLine": "Write content 50x faster with AI ",
+                "logo": {
+                    "id": "cla76yanb883079556usytu9ysf",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1667520211/icons/mentum-ai.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cla76yana883073556uefnfdtzx",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.mentum.ai/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cla76yana883074556uw958nqda",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "url": "https://app.mentum.ai/terms-of-service",
+                        "sequence": 1,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cla76yana883075556up2cnyusl",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "url": "https://app.mentum.ai/privacy-policy",
+                        "sequence": 2,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,256 @@
+.card-container{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.88);
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+    list-style: none;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    position: relative;
+    background: #ffffff;
+    border-radius: 8px;
+    border: 1px solid #f0f0f0;
+    cursor: pointer;
+    transition: box-shadow 0.2s,border-color 0.2s;
+    max-width: 307px;
+    min-width: 307px;
+    min-height: 140px;
+    max-height: 167px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 8px 0px;
+    background-color: rgb(255, 255, 255);
+}
+.card-container:hover{
+    border-color: transparent;
+    box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.16), 0 3px 6px 0 rgba(0, 0, 0, 0.12), 0 5px 12px 4px rgba(0, 0, 0, 0.09);
+}
+
+.card-container .card-upper-corner{
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    /* white-space: nowrap; */
+    width: 100%;
+}
+
+.card-container .card-upper-corner .card-upper-corner-text{
+    font-size: 10px;
+    /* font-style: oblique; */
+    margin-right: 8px;
+}
+
+.card-upper-corner-text-color-free{
+    color: #389e0d;
+    background: #f6ffed;
+    border-color: #b7eb8f;
+}
+
+.card-upper-corner-text-color-option{
+    color: #d48806;
+    background: #fffbe6;
+    border-color: #ffe58f;
+}
+
+.card-upper-corner-text-color-paid{
+    color: #cf1322;
+    background: #fff1f0;
+    border-color: #ffa39e;
+}
+
+
+
+.card-container .card-body{
+    padding: 18px 12px 10px;
+    border-radius: 0 0 8px 8px;
+    transform: translateY(12px);
+
+}
+
+.card-container:hover .card-body{
+    transform: translateY(0px);
+    transition: 0.5s;
+}
+
+/* .card-body ::before{
+    display: table;
+    content: "";
+}
+
+.card-body::after {
+    display: table;
+    clear: both;
+    content: "";
+} */
+
+.card-meta{
+    margin: -4px 0;
+    display: flex;
+}
+
+/* .card-meta::before{
+    display: table;
+    content: "";
+}
+
+.card-meta::after{
+    display: table;
+    clear: both;
+    content: "";
+} */
+
+.card-meta-avatar{
+    padding-inline-end: 16px;
+}
+
+
+.card-meta-detail{
+    overflow: hidden;
+    flex: 1;
+}
+
+
+.card-avatar{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-size: 14px;
+    line-height: 30px;
+    list-style: none;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+    vertical-align: middle;
+    background: rgba(0, 0, 0, 0.25);
+    border: 1px solid transparent;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.card-avatar-img-bg{
+    background: transparent;
+}
+
+.card-avatar-img-bg .card-avatar-img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-meta-detail{
+    overflow: hidden;
+    flex: 1;
+}
+
+.card-meta-detail .card-meta-title{
+    color: rgba(0, 0, 0, 0.88);
+    font-weight: 600;
+    font-size: 16px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.card-meta-detail .card-meta-description{
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 12px;
+    margin-top: 8px;
+    max-height: 40px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+
+.card-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-link .card-link-a{
+    font-size: 11px;
+    opacity: 0;
+
+}
+.card-container:hover .card-link .card-link-a{
+    -webkit-animation: tracking-in-contract-bck 0.6s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+    animation: tracking-in-contract-bck 0.6s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+
+/**
+ * ----------------------------------------
+ * animation tracking-in-contract-bck
+ * ----------------------------------------
+ */
+ @-webkit-keyframes tracking-in-contract-bck {
+    0% {
+      letter-spacing: 1em;
+      -webkit-transform: translateZ(400px);
+              transform: translateZ(400px);
+      opacity: 0;
+    }
+    40% {
+      opacity: 0.6;
+    }
+    100% {
+      -webkit-transform: translateZ(0);
+              transform: translateZ(0);
+      opacity: 1;
+    }
+  }
+  @keyframes tracking-in-contract-bck {
+    0% {
+      letter-spacing: 1em;
+      -webkit-transform: translateZ(400px);
+              transform: translateZ(400px);
+      opacity: 0;
+    }
+    40% {
+      opacity: 0.6;
+    }
+    100% {
+      -webkit-transform: translateZ(0);
+              transform: translateZ(0);
+      opacity: 1;
+    }
+  }
+  
+.card-tags{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow: hidden;
+    /* white-space: nowrap; */
+    text-align: center;
+    background: transparent;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.card-tags .card-tags-text{
+    color: rgba(83, 81, 81, 0.45);
+    font-size: 11px;
+    margin-left: 8px;
+    /* overflow: hidden;
+    white-space: nowrap; */
+    text-align: center;
+    margin-right: 8px;
+    cursor: pointer;
+    background: transparent;
+    /* width: 33%; */
+   font-style: italic;
+}
+
+.card-tags-text:not(:first-child){
+    margin-left: 8px;
+}
+

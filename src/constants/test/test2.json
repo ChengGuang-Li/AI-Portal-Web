@@ -1,0 +1,663 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "clgcsftus1522124705lp4hr9fz7",
+                "name": "Tongyi Qianwen by Alibaba ",
+                "slug": "alibaba-tongyi-qianwen",
+                "tagLine": "Alibaba’s answer to ChatGPT",
+                "logo": {
+                    "id": "clgcsnr0915145716z4d4zous6oe",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1681249693/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-04-11_at_23.47.54_n311u5.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "ckl07vsnkbej00b73nx6hq1ye",
+                        "name": "GPT-3 Alternative Large Language Models (LLMs)",
+                        "slug": "alternative-language-models",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clgcsftus1522125705leek2puj2",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.alizila.com/alibaba-cloud-debuts-generative-ai-model-for-corporate-users/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cldc6rmbl1261358dk3axc3u6ipy",
+                "name": "Character.AI",
+                "slug": "characterai",
+                "tagLine": "Chat with your favorite celebrity. The entertaining ChatGPT alternative",
+                "logo": {
+                    "id": "cldc6rmbl1261360dk3afyk22mx1",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1674682575/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/QMIFG-Tn_400x400_bwbnm4.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "cksl1uses1zsf0a61724pfp3m",
+                        "name": "Avatars",
+                        "slug": "avatars",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cldc6rmbl1261359dk3anyn9q8g0",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://beta.character.ai/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clfkevlko13735326z5e1j1oaewx",
+                "name": "ChatLLaMA",
+                "slug": "chatllama",
+                "tagLine": " An open-source ChatGPT style chatbot for Facebook's LLaMA",
+                "logo": {
+                    "id": "clfkevlko13735346z5eub7ij1f6",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1679533492/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-03-23_at_01.58.35_ooczhd.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [
+                    {
+                        "id": "cknnlkyb1375m0b343uylwxkv",
+                        "name": "New",
+                        "slug": "new",
+                        "translations": [],
+                        "__typename": "Collection"
+                    },
+                    {
+                        "id": "clbjfycay893960560v2xoouujk",
+                        "name": "Open-source",
+                        "slug": "open-source",
+                        "translations": [],
+                        "__typename": "Collection"
+                    }
+                ],
+                "links": [
+                    {
+                        "id": "clfkevlko13735336z5e1gjxl508",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://chatllama.baseten.co/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clfkf1drt1334979708ff8zqgfc9",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "url": "https://github.com/juncongmoo/chatllama",
+                        "sequence": 1,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clbtjm5c8833843f58tzj58wc59",
+                "name": "Chatsonic",
+                "slug": "chatsonic",
+                "tagLine": "Like ChatGPT but with superpowers",
+                "logo": {
+                    "id": "clbtjm5c8833845f58t0wo1apsx",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671378515/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/0d0e413c-79fe-4ab2-b561-7fcc23524731_npyard.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                        "name": "Image Generation",
+                        "slug": "image-generation",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clbtjm5c8833844f58tm0p87vhl",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://writesonic.com/chat",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "cld260e13847357qo675qm009cj",
+                "name": "Claude",
+                "slug": "claude-by-anthropic",
+                "tagLine": "Anthropic’s Rival to ChatGPT",
+                "logo": {
+                    "id": "cldq8fc4810281576zaquxuaqqqh",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1675531888/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/anthropic-logo_fb47aaa7-9725-42fb-9aeb-889c99cdccf0_r4xcuu.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cld260e13847358qo67xmscx8x5",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.anthropic.com/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cldq8bglx10226636zaq9fsclyyx",
+                        "name": "Request early access",
+                        "type": "OTHER",
+                        "url": "https://notionforms.io/forms/b34a2188-399a-4788-8c39-04b63e037aaa/",
+                        "sequence": 1,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clczb8joo6248947267152ezy5g",
+                "name": "Deepmind Sparrow AI",
+                "slug": "deepmind-sparrow-ai",
+                "tagLine": "A ChatGPT competitor from Google",
+                "logo": {
+                    "id": "clczb8joo62489572672dhlavtg",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1673904023/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/channels4_profile_dcjk7c.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "cld00v0t92155272679f3oyulh",
+                        "name": "Blog post",
+                        "type": "WEBSITE",
+                        "url": "https://www.deepmind.com/blog/building-safer-dialogue-agents",
+                        "sequence": null,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "cld00x2e341555706ltx6q6l6o",
+                        "name": "Research paper",
+                        "type": "OTHER",
+                        "url": "https://arxiv.org/abs/2209.14375",
+                        "sequence": 1,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clgat1tst1290021705lfubbozii",
+                "name": "FreedomGPT",
+                "slug": "freedomgpt",
+                "tagLine": "A Personal, Bold and Uncensored Chatbot Running Locally on Your PC",
+                "logo": {
+                    "id": "clgat1tst1290023705lbl6nxg8d",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1681129417/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/channels4_profile_1_b9niln.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clgat1tst1290022705l7sb5fi8n",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://freedomgpt.com/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clgat63f912741776z4d8ljxgju3",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "url": "https://github.com/ohmplatform/freedom-gpt-electron-app",
+                        "sequence": 1,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clc89jqz5121929370yrvc5jtbtj",
+                "name": "Jasper Chat",
+                "slug": "jasper-chat",
+                "tagLine": "AI Chat for Content Creators",
+                "logo": {
+                    "id": "clc89jqz5121929570yrl6hpuppu",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672268600/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/63a15c8d57a05c78f32e5b01_Jasper_Chat_1-poster-00001_sw3k6l.jpg",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clc89jqz5121929470yrhlyrc665",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.jasper.ai/chat",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clfha1rcq16310708fmfnk5flh",
+                "name": "OpenChatKit",
+                "slug": "openchatkit",
+                "tagLine": "The Open-Source Alternative to ChatGPT ",
+                "logo": {
+                    "id": "clfha1rcq16312708fu30ezlyq",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1679343983/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/OpenChatKit_-_Email_Summarization_to_Table_gfzxqz.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [
+                    {
+                        "id": "cknnlkyb1375m0b343uylwxkv",
+                        "name": "New",
+                        "slug": "new",
+                        "translations": [],
+                        "__typename": "Collection"
+                    },
+                    {
+                        "id": "clbjfycay893960560v2xoouujk",
+                        "name": "Open-source",
+                        "slug": "open-source",
+                        "translations": [],
+                        "__typename": "Collection"
+                    }
+                ],
+                "links": [
+                    {
+                        "id": "clfha1rcq16311708fv8l4vn49",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://www.together.xyz/blog/openchatkit",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clfha393r18501708fu9jwsjs0",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "url": "https://github.com/togethercomputer/OpenChatKit",
+                        "sequence": 1,
+                        "translations": [],
+                        "__typename": "Link"
+                    },
+                    {
+                        "id": "clfha9ml427465708fpf18zbu0",
+                        "name": "Hugging Face Demo",
+                        "type": "OTHER",
+                        "url": "https://huggingface.co/spaces/togethercomputer/OpenChatKit",
+                        "sequence": 2,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            },
+            {
+                "id": "clddh987u221491jx8ixb9ng9b2",
+                "name": "Socratic by Google",
+                "slug": "socratic-by-google",
+                "tagLine": "An AI-powered learning app for kids",
+                "logo": {
+                    "id": "clddhag0t222798jx8iy6yrtluk",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1674760716/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/unnamed_2_y2ctin.png",
+                    "__typename": "File"
+                },
+                "categories": [
+                    {
+                        "id": "clbwm3t8c2918175g1nnofvqk8e",
+                        "name": "Education",
+                        "slug": "education",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    },
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "translations": [],
+                        "__typename": "MultiCategory"
+                    }
+                ],
+                "collections": [],
+                "links": [
+                    {
+                        "id": "clddh987u221492jx8ipnke2wwk",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "url": "https://socratic.org/",
+                        "sequence": 0,
+                        "translations": [],
+                        "__typename": "Link"
+                    }
+                ],
+                "zapierId": "",
+                "piesyncId": "",
+                "microsoftFlowId": "",
+                "combideskId": "",
+                "segmentId": null,
+                "integromatId": "",
+                "automateId": "",
+                "trayIoId": "",
+                "nativeIntegration": false,
+                "thirdPartyIntegration": false,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegrationLink": "",
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "translations": [],
+                "sticky": false,
+                "upcoming": false,
+                "__typename": "Listing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,2411 @@
+{
+    "data": {
+        "collectionsPreview": [
+            {
+                "id": "cknnlkyb1375m0b343uylwxkv",
+                "name": "New",
+                "slug": "new",
+                "count": 58,
+                "visible": true,
+                "description": "Recently added GPT-3 apps",
+                "logo": null,
+                "translations": [],
+                "__typename": "Collection"
+            },
+            {
+                "id": "cknnll6if376c0b346kc0pgpr",
+                "name": "Popular",
+                "slug": "popular",
+                "count": 11,
+                "visible": true,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "Collection"
+            },
+            {
+                "id": "clbjfycay893960560v2xoouujk",
+                "name": "Open-source",
+                "slug": "open-source",
+                "count": 15,
+                "visible": true,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "Collection"
+            }
+        ],
+        "categoriesPreview": [
+            {
+                "id": "ckkyrfmv253es0b734rhiv7pu",
+                "name": "A/B Testing",
+                "slug": "ab-testing",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldp5bh6g9671506zaqr2boggnm",
+                "name": "Accounting",
+                "slug": "accounting",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkq694yh9fws0b73hbn2p7qd",
+                "name": "Ad Generation",
+                "slug": "ad-generation",
+                "count": 6,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbpp5ewr129706ev5bpfaw031t",
+                "name": "Advertising",
+                "slug": "advertising",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clda6kr3o881508dk3aest3mlbd",
+                "name": "AI Organizations",
+                "slug": "ai-organizations",
+                "count": 10,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clfka6aud1101671708fn96ld4ie",
+                "name": "AI Workers",
+                "slug": "ai-workers",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckmn2ruvs6hh20b59ogg4lwsx",
+                "name": "AI Writing Assistants",
+                "slug": "ai-writing-assistants",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckl07vsnkbej00b73nx6hq1ye",
+                "name": "GPT-3 Alternative Large Language Models (LLMs)",
+                "slug": "alternative-language-models",
+                "count": 59,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckydjbb337dhe0a17cprf9iuz",
+                "name": "API Design",
+                "slug": "api-design",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clgbvqgk213939016z4d2aqw7ip2",
+                "name": "Application security",
+                "slug": "application-security",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbv7l6wt317066f58t4utmb4pe",
+                "name": "Architecture",
+                "slug": "architecture",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldarfqhk346771jx8iixhk7qcr",
+                "name": "Audio Editing",
+                "slug": "audio-editing",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clgchm2ja965161705lggo31xl6",
+                "name": "Autonomous AI Agents",
+                "slug": "autonomous-ai-agents",
+                "count": 4,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cksl1uses1zsf0a61724pfp3m",
+                "name": "Avatars",
+                "slug": "avatars",
+                "count": 11,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldj1nzit773118j95d3avp9dtm",
+                "name": "Biotech",
+                "slug": "biotech",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkhfdu0jcbs50b73cohdnkpj",
+                "name": "Blog writing",
+                "slug": "blog-writing",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckoq90tvdcizq0a619fmh47mi",
+                "name": "Book Writing",
+                "slug": "book-writing",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbctpn4a126451154akyc0fwppa",
+                "name": "Browser Extensions",
+                "slug": "browser-extensions",
+                "count": 4,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clduv1duz3852796z4iakv7am0m",
+                "name": "Browsers",
+                "slug": "browsers",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckxceush0g1xh0d62382s322x",
+                "name": "Bug Detection",
+                "slug": "bug-detection",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldk7rmc81439990j95ds7xasswl",
+                "name": "Changelog",
+                "slug": "changelog",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clgvixiu41541294705pdvli87fn",
+                "name": "Charting",
+                "slug": "charting",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [
+                    {
+                        "locale": "en",
+                        "key": "name",
+                        "value": "Charting",
+                        "__typename": "Translation"
+                    },
+                    {
+                        "locale": "en",
+                        "key": "description",
+                        "value": "",
+                        "__typename": "Translation"
+                    }
+                ],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                "name": "Chatbots",
+                "slug": "chatbots",
+                "count": 43,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cld00ec2k167591772675ka53xcj",
+                "name": "ChatGPT Alternatives",
+                "slug": "chatgpt-alternatives",
+                "count": 10,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cle7e3xp527400570b1eed01k1t",
+                "name": "Chrome Extensions",
+                "slug": "chrome-extensions",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cledk5t96116715170b139kkapc7",
+                "name": "Climate",
+                "slug": "climate",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckups2fibjy700a450kn05949",
+                "name": "Code Explanation",
+                "slug": "code-explanation",
+                "count": 3,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklbiynp5tgck0b86bmlea559",
+                "name": "Code Generation",
+                "slug": "code-generation",
+                "count": 13,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cku8xkvifjeha0b99muj0zwou",
+                "name": "Code Refactoring",
+                "slug": "code-refactoring",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckqichfki2fck0a04pvyz6lx6",
+                "name": "Coding Assistants",
+                "slug": "coding-assistants",
+                "count": 10,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cl0rsgoft642832ba3vv3ww6msd",
+                "name": "Color Generation",
+                "slug": "color-generation",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clf46hx2w12417786zygg6tq5xsb",
+                "name": "Comic Books",
+                "slug": "comic-books",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cl0jwfw5q4hv30d48xqj2us4k",
+                "name": "Computer Vision",
+                "slug": "computer-vision",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckw78cyj1b1g10d6266u3l8d7",
+                "name": "Content Aggregators",
+                "slug": "content-aggregators",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckl8fecg9e2go0b866c51vd23",
+                "name": "Content Comprehension",
+                "slug": "content-comprehension",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cknlokqsqrkt70a79yudmxtjk",
+                "name": "Content Generation",
+                "slug": "content-generation",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldmb92yq714634j95d70ipakkw",
+                "name": "Contract Lifecyle Management",
+                "slug": "contract-lifecyle-management",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbwlsnyt2763935g1nwo65u2es",
+                "name": "Contract Management",
+                "slug": "contract-management",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cktwhy6p9m0od0b99u7yc5e7k",
+                "name": "Conversations",
+                "slug": "conversations",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckwmgcpkfmr520b62znvrijcx",
+                "name": "Conversion Rate Optimization (CRO)",
+                "slug": "conversion-rate-optimization-cro",
+                "count": 1,
+                "description": "AI-powered conversion rate optimization, or CRO, is the process of enhancing your website and content to boost conversions.",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkokiddg1qa70b73v4toexun",
+                "name": "AI Copywriting",
+                "slug": "copywriting",
+                "count": 55,
+                "description": "GPT-3 use cases and examples for AI copywriting ✍🏼",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cks2lwefq28860a61fydujk2y",
+                "name": "Creative Thinking",
+                "slug": "creative-thinking",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckoepy8yc8vll0b34i8q9c4pl",
+                "name": "Creative Writing",
+                "slug": "creative-writing",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clexa5avc1669486721xqradrb2l",
+                "name": "CRM",
+                "slug": "crm",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckhg6xktzmqcl0b66tzne7yeb",
+                "name": "Customer Service",
+                "slug": "customer-service",
+                "count": 8,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbxzyg6m8898575g1ncz1obg2e",
+                "name": "Customer Support",
+                "slug": "customer-support",
+                "count": 11,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklijmgp2pxzj0b86bydqpxc0",
+                "name": "Databases & Query Builders",
+                "slug": "databases",
+                "count": 9,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckt0oh5mmpw8o0b48l40co5jz",
+                "name": "Datasets",
+                "slug": "datasets",
+                "count": 4,
+                "description": "Datasets to train language models",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklxxobvt9inj0b59ym8yj3vk",
+                "name": "Dating",
+                "slug": "dating",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cks0q2dr8w0040a178js5a23i",
+                "name": "Decision Assistants",
+                "slug": "decision-assistants",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckmfyjqc36v6a0b59oryct2f3",
+                "name": "Deepfakes",
+                "slug": "deepfakes",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklhp4et2lim50b86krzlwt7z",
+                "name": "Design",
+                "slug": "design",
+                "count": 7,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                "name": "Developer Tools",
+                "slug": "developer-tools",
+                "count": 66,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckngga6d2iag50a791as8y1gh",
+                "name": "Dialogs",
+                "slug": "dialogs",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clevd9nk11416147731d7r5jjfg3",
+                "name": "Diplomacy",
+                "slug": "diplomacy",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckke4nj0m0eeg0b73u39nk4ep",
+                "name": "Document Extraction",
+                "slug": "document-extraction",
+                "count": 3,
+                "description": "GPT-3 powered document processing",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklu6mw90v49m0b595toy0n9f",
+                "name": "Documents",
+                "slug": "documents",
+                "count": 5,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clgaufhfq1409264705lhnimpj91",
+                "name": "Domain-specific LLMs",
+                "slug": "domain-specific-llms",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckr5ot3e8xjwq0b17bi0hsscv",
+                "name": "Ecommerce",
+                "slug": "ecommerce",
+                "count": 5,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbwm3t8c2918175g1nnofvqk8e",
+                "name": "Education",
+                "slug": "education",
+                "count": 5,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cld60pyxj778738dk3a54kfy7n2",
+                "name": "Email Assistants",
+                "slug": "email-assistants",
+                "count": 3,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckhg6unv3mpzz0b66ablgk7rp",
+                "name": "Email Generation",
+                "slug": "email-generation",
+                "count": 11,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckp2pdcbj497x0a49459iv7ue",
+                "name": "Esports",
+                "slug": "esports",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklvn0qi210lu0b59rv7owqtj",
+                "name": "Essay Writing",
+                "slug": "essay-writing",
+                "count": 8,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckl5yf3li4dw10b86chr2xs0z",
+                "name": "Events & hackathons, and demo days",
+                "slug": "events-and-demo-days",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clc74shyb114841170yrv8pd2ho1",
+                "name": "Example Prompts",
+                "slug": "example-prompts",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckmb6tiwlo6ct0b59gaupn63i",
+                "name": "Experiments",
+                "slug": "experiments",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clggwvkw94273374wbtw2n44hs",
+                "name": "Face Recognition",
+                "slug": "face-recognition",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [
+                    {
+                        "locale": "en",
+                        "key": "name",
+                        "value": "Face Recognition",
+                        "__typename": "Translation"
+                    },
+                    {
+                        "locale": "en",
+                        "key": "description",
+                        "value": "",
+                        "__typename": "Translation"
+                    }
+                ],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckma7u7u4krkx0b59gyhnw2vi",
+                "name": "Fantasy interviews",
+                "slug": "fantasy-interviews",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clge40o5p661849705lmiqxydxp",
+                "name": "Farming",
+                "slug": "farming",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cle7ejthg30167470b1cbmv7dls",
+                "name": "Files",
+                "slug": "files",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cld99v8k61004098jx8irnu68azy",
+                "name": "Finance",
+                "slug": "finance",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckovi9367tudx0b34jed5z584",
+                "name": "Forms & surveys",
+                "slug": "forms-surveys",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbv5gj79213090f58toxjz5p95",
+                "name": "Game Development",
+                "slug": "game-development",
+                "count": 5,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkn235x2vi7p0b737pn2brsb",
+                "name": "Games",
+                "slug": "games",
+                "count": 12,
+                "description": "Text games, game development, RPG storyline generation, and more. The GPT-3 API from OpenAI can power it all.",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldq0ugvv6587246zaqdya8pgsg",
+                "name": "Generative AI",
+                "slug": "generative-ai",
+                "count": 3,
+                "description": "Generative AI refers to a type of artificial intelligence that focuses on generating new, previously unseen content based on input data. This is accomplished through the use of generative models, such as generative adversarial networks (GANs) or Variational Autoencoders (VAEs), that are trained on a large dataset and then used to produce new examples that fit the characteristics of the data. This can be applied in a variety of domains, including image and music synthesis, natural language processing, and more.",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckv1l1dn361gg0a45k492tc14",
+                "name": "Generative Art",
+                "slug": "generative-art",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkfx7sst6qfj0b73pq1jl26b",
+                "name": "Generative Design",
+                "slug": "generative-design",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckmci2n0vsuqc0b59d71g1x5r",
+                "name": "Generative Media",
+                "slug": "generative-media",
+                "count": 2,
+                "description": "Generative media is gearing up to hit the mainstream. Generative Media is music, art, video and text that uses systems that grow and change over time.",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckl33zfskmhts0b73q6r9d41p",
+                "name": "Gimmicks",
+                "slug": "gimmicks",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckoekutgi8hnr0b34mw59ljca",
+                "name": "GPT-3 Alternatives",
+                "slug": "gpt-3-alternatives",
+                "count": 9,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clfh9abm116704396z5e1boghiqd",
+                "name": " Playgrounds",
+                "slug": "gpt-playgrounds",
+                "count": 6,
+                "description": "GPT Playgrounds to experiment with different AI models",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckhg71v3lmqp10b66tp1n8xbq",
+                "name": "Healthcare",
+                "slug": "healthcare",
+                "count": 4,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cl0jtm7624cyz0d48vr59dvab",
+                "name": "Hiring",
+                "slug": "hiring",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clgeokqyv43824705llo8n5kua",
+                "name": "Homework",
+                "slug": "homework",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckl4d4whwr6vl0b730iwzrp72",
+                "name": "Humor",
+                "slug": "humor",
+                "count": 6,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clfn5a7vl1583148708fcdep4tni",
+                "name": "IDE",
+                "slug": "ide",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklhs9nq8lugx0b86kcyx5al8",
+                "name": "Idea generators",
+                "slug": "idea-generators",
+                "count": 5,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckm8ee78reg0g0b598q0igv9z",
+                "name": "Image captioning",
+                "slug": "image-captioning",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbry5t3q268383ev5bgc4dtlob",
+                "name": "Image Editing",
+                "slug": "image-editing",
+                "count": 4,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                "name": "Image Generation",
+                "slug": "image-generation",
+                "count": 27,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clcjslyhv10462077140ta8tcftt",
+                "name": "Image Segmentation",
+                "slug": "image-segmentation",
+                "count": 2,
+                "description": "Image segmentation is an important step in artificial vision. Machines need to divide visual data into segments for segment-specific processing to take place.",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbry2lq4270655f58tpuz0kzrw",
+                "name": "Image-to-image",
+                "slug": "image-to-image",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clgcnnk921269183705ljbhoqg7n",
+                "name": "Interview Notes",
+                "slug": "interview-notes",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cla0ehhdh82073150695shct64h",
+                "name": "Investing",
+                "slug": "investing",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckvachvbqte970a45n6sjrsjh",
+                "name": "IOT",
+                "slug": "iot",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clcgtzq41142985170yrim6y0k27",
+                "name": "Keyboards",
+                "slug": "keyboards",
+                "count": 1,
+                "description": "The world's most powerful AI, built into your keyboard",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckhzqi24jkvam0b661ykph83s",
+                "name": "Knowledge Base",
+                "slug": "knowledge-base",
+                "count": 7,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clduw13qy4338216z4i336vyb0j",
+                "name": "Knowledge Graphs",
+                "slug": "knowledge-graphs",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckwbqm588kfi60d625wwd215t",
+                "name": "Language Learning",
+                "slug": "language-learning",
+                "count": 4,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkdgiq8kpp4x0a09nqpoki4i",
+                "name": "Learning",
+                "slug": "learning",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckxzmkacsdg0s0b62lxpq5act",
+                "name": "LegalTech",
+                "slug": "legaltech",
+                "count": 7,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldtil5lv5695726zaqd229orms",
+                "name": "Lifesciences",
+                "slug": "lifesciences",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbji9s0z1014186560v6krf7klk",
+                "name": "Lip Sync",
+                "slug": "lip-sync",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clg7vsy1716084236z4dzgeajob7",
+                "name": "LLM Ops",
+                "slug": "llm-ops",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clevgfop01550187731dqhz6bgck",
+                "name": "LLM Training",
+                "slug": "llm-training",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckxc99kzhjysz0b62qvaakbt6",
+                "name": "LMS",
+                "slug": "lms",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckmr87spb62g50b54z12j2rbi",
+                "name": "Log Management",
+                "slug": "log-management",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckp4vybm8ues10b34k9siyq67",
+                "name": "Low Code",
+                "slug": "low-code",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckhg5ykvymna40b66o8vhbov9",
+                "name": "Machine Learning",
+                "slug": "machine-learning",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clge4tiu0705870705lt3e8ag1o",
+                "name": "Machine Learning Model Deployment",
+                "slug": "machine-learning-model-deployment",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklho47ddlezh0b867sasr2db",
+                "name": "Machine learning model generation",
+                "slug": "machine-learning-model-generation",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clg7wwbz91634551705luvz8jgvk",
+                "name": "Malicious",
+                "slug": "malicious",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckqegccvvsqlq0a04qwiu4elb",
+                "name": "Marketing Plan",
+                "slug": "marketing-plan",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cle7f6nac348078725i7foic61m",
+                "name": "Medical Research",
+                "slug": "medical-research",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cld3u4y781156420703a19irrlhe",
+                "name": "Meeting Notes",
+                "slug": "meeting-notes",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckp2vqo5f5kt00a496ll1ge9a",
+                "name": "Meeting transcription",
+                "slug": "meeting-transcription",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkuddp73o20d0b731jf0hlfz",
+                "name": "Mental Health",
+                "slug": "mental-health",
+                "count": 3,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckxne0uhh2rpa0d62jzio9san",
+                "name": "Mind Mapping",
+                "slug": "mind-mapping",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cktc44i9gdrpv0a61azf927af",
+                "name": "Miscellaneous",
+                "slug": "miscellaneous",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clf7t5or215026726zygi9f01uq8",
+                "name": "MLLM (Multimodal Large Language Models)",
+                "slug": "mllm-multimodal-large-language-models",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckt62jbs833lj0a61s4uh1d4a",
+                "name": "Movie Script Writing",
+                "slug": "movie-script-writing",
+                "count": 1,
+                "description": "AI-written screenplays and movies",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clcs3t7cw140387070bmzjsmyd93",
+                "name": "Music",
+                "slug": "music",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckm74np4p9vg40b59wjm64v8n",
+                "name": "Navigation",
+                "slug": "navigation",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckpum3bef8vvi0a98cvi4p0i7",
+                "name": "Neural Networks",
+                "slug": "neural-networks",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clemsr3rp66035970b1i312l5lt",
+                "name": "News Feed",
+                "slug": "news-feed",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckpowv83esn8x0a98wjgsntmz",
+                "name": "NFTs",
+                "slug": "nfts",
+                "count": 3,
+                "description": "GPT-3 powered NFTs",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clc74s0gt1159464713y33gwo2p8",
+                "name": "No-code",
+                "slug": "no-code",
+                "count": 4,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clay9e2n56107575576abj4mf09",
+                "name": "Notes",
+                "slug": "notes",
+                "count": 4,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckx5p17dl3oay0d82pt4zpfdl",
+                "name": "Paraphrasing",
+                "slug": "paraphrasing",
+                "count": 1,
+                "description": "Paraphrasing is about generating a new content that keeps the same sense as the original content, but with different words.",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clffk3zeq14582256z5ep8nldt4y",
+                "name": "Payments",
+                "slug": "payments",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cktpvvg6h2kpv0b993tfy4vlp",
+                "name": "Peformance Reviews",
+                "slug": "peformance-reviews",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cktc3l13x228g0a45ln3vyet8",
+                "name": "Personal development",
+                "slug": "personal-development",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkp74uee57fa0b73uyhxd2kx",
+                "name": "Philosophy",
+                "slug": "philosophy",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbdzn86w25819254akj7sjv7h2",
+                "name": "Plagiarism Checker",
+                "slug": "plagiarism-checker",
+                "count": 8,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldq1ekvk6971756zc94twb4vjy",
+                "name": "Planning",
+                "slug": "planning",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cksqkoqk3d0pt0a17irylzna7",
+                "name": "Playwriting",
+                "slug": "playwriting",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldjwipuz774063jh1wscvnwtsi",
+                "name": "Podcasting",
+                "slug": "podcasting",
+                "count": 4,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklaembiip05j0b869b1b43zb",
+                "name": "Poetry",
+                "slug": "poetry",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkjvrm09k72y0b73lmh2eiat",
+                "name": "Presentation Tools",
+                "slug": "presentation-tools",
+                "count": 6,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cknf3t13wg1oj0a7914yoy5im",
+                "name": "Press Releases",
+                "slug": "press-releases",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbpg39e61292531ev5bkzukr82g",
+                "name": "Product Analytics",
+                "slug": "product-analytics",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clge3zale659742705lcqsyxt63",
+                "name": "Product Images",
+                "slug": "product-images",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbcu584g128793154aklyu8ts86",
+                "name": "Productivity",
+                "slug": "productivity",
+                "count": 5,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckvriaqmjv38i0b99xuq3iuau",
+                "name": "Product Management",
+                "slug": "product-management",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckuvsu53gv4th0a458vo7ue6x",
+                "name": "Product Recommendations",
+                "slug": "product-recommendations",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbm5pd1m68886535bqz132pun",
+                "name": "Project Management",
+                "slug": "project-management",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbvu7l551319287f58t23s5jt8t",
+                "name": "Prompt Engineering",
+                "slug": "prompt-engineering",
+                "count": 4,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbjxz2iv8973654ak2oj8jc87",
+                "name": "Prompt Marketplaces",
+                "slug": "prompt-marketplaces",
+                "count": 7,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckoq80xdbcgfc0a61rflh2929",
+                "name": "Proptech",
+                "slug": "proptech",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckmh4nxe7bkj50b595l21dqvr",
+                "name": "Quizes",
+                "slug": "quiz",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clf1giz63291453731d1rkrnqjq",
+                "name": "Quotes",
+                "slug": "quotes",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkvz91pytuvg0b73fh04kh4b",
+                "name": "Recipe Generation",
+                "slug": "recipe-generation",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckmilp2g4hca10b592d3i9l3o",
+                "name": "Recommendation Engines",
+                "slug": "recommendation-engines",
+                "count": 2,
+                "description": "A recommendation engine is a system that suggests products, services, information to users based on analysis of data.",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkh0wvxzb24d0b73rbqemm5t",
+                "name": "Recruiting",
+                "slug": "recruiting",
+                "count": 3,
+                "description": "GPT-3 powered tools for writing job descriptions and hiring.",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkdgho42pozm0a09ros8ycxc",
+                "name": "Regex",
+                "slug": "regex",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckwr2bvs3zc1p0b62pqmw10jc",
+                "name": "Research Assistants",
+                "slug": "research-assistants",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckl1x940yi8qg0b736ldbs5qc",
+                "name": "Resources",
+                "slug": "resources",
+                "count": 5,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckqlpgh33beny0a98cioztk3m",
+                "name": "Resume Writing",
+                "slug": "resume-writing",
+                "count": 4,
+                "description": "GPT-3 powered resume builders and writers",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckovt4qm4k8dm0a49c1gyt6u5",
+                "name": "Review Aggregation",
+                "slug": "review-aggregation",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckt23fz6btdzk0b48x3vxa1bj",
+                "name": "Road Trip Planning",
+                "slug": "road-trip-planning",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbpokwsq97014ev5bzcwad58m",
+                "name": "Robotics",
+                "slug": "robotics",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clfhnalah7117566z5e84r76ald",
+                "name": "RPA",
+                "slug": "rpa",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckuokixvonqse0b99sjn8afwi",
+                "name": "Sales",
+                "slug": "sales",
+                "count": 5,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckntwhk4hn4vb0b34w8zypykm",
+                "name": "Screenwriting",
+                "slug": "screenwriting",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckku63meanbnc0b735wd1th02",
+                "name": "SDKs",
+                "slug": "sdks",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkiw6nybh8wx0b733uhyn23i",
+                "name": "Search Engines",
+                "slug": "search-engine",
+                "count": 17,
+                "description": "GPT-3 powered search engine examples and use cases",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckhgdvxxanb2t0b66fo574h6n",
+                "name": "Semantic Search",
+                "slug": "semantic-search",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckqegg7zlsqpg0a98any88be2",
+                "name": "SEO",
+                "slug": "seo",
+                "count": 3,
+                "description": "GPT-3 & SEO - Tools for search and content Marketing",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cletx68zt897924731d4gqs5mpk",
+                "name": "Smart Speakers",
+                "slug": "smart-speakers",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbmmcbzv1085864538tb1wwzy48",
+                "name": "Social Media",
+                "slug": "social-media",
+                "count": 3,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckki9ww87f6ev0b73dpoewss0",
+                "name": "Social Networks",
+                "slug": "social-networks",
+                "count": 2,
+                "description": "GPT-3 use cases and examples for Social Networks",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckpr9iqmhz3ty0a98l69fovl6",
+                "name": "Software Purchasing",
+                "slug": "software-purchasing",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cknhqlupekl4e0a79a5ksapxm",
+                "name": "Songwriting",
+                "slug": "songwriting",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbckc3gc70538154akm5skmw6g",
+                "name": "Speech Recognition",
+                "slug": "speech-recognition",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckmxotdwbcixg0b34us77nhzz",
+                "name": "Speech Synthesis",
+                "slug": "speech-synthesis",
+                "count": 4,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklhvk615m96h0b86od1t2lm1",
+                "name": "Spreadsheets",
+                "slug": "spreadsheets",
+                "count": 9,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cksduejosou5f0a17nv5qk0y4",
+                "name": "Story Generation",
+                "slug": "story-generation",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clc9j70sl145744670yrmica2rge",
+                "name": "Storytelling",
+                "slug": "storytelling",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cku02jaymaqxc0a45onod7mjh",
+                "name": "Summarization",
+                "slug": "summarization",
+                "count": 11,
+                "description": "AI-powered summarization",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clchzp6305735244fyro97optya",
+                "name": "Synthetic Data",
+                "slug": "synthetic-data",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckpowbok7slr10a04c7wkot81",
+                "name": "Synthetic Humans",
+                "slug": "synthetic-humans",
+                "count": 2,
+                "description": "AI-generated avatars ",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckwbq4aq4keiv0d624xf5ycut",
+                "name": "Tax Filling",
+                "slug": "tax-filling",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldq9dlho10732926zaqlygohfjk",
+                "name": "Team Messaging",
+                "slug": "team-messaging",
+                "count": 4,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldf2z4h8623116701wut2db0es",
+                "name": "Test Automation",
+                "slug": "test-automation",
+                "count": 3,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckyguuli1g4970a17cl8iqawa",
+                "name": "Text Generation",
+                "slug": "text-generation",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cle6dvgdv1415946725ieyqzfm0s",
+                "name": "Text-to-3D",
+                "slug": "text-to-3d",
+                "count": 1,
+                "description": "Using AI generate 3D models",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbo211x2441317535bs8i267hc",
+                "name": "Text-to-Audio",
+                "slug": "text-to-audio",
+                "count": 6,
+                "description": "AI voice generators & realistic text to speech (TTS)",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clcjtwjh210942757140mqa18zf5",
+                "name": "Text-to-chain",
+                "slug": "text-to-chain",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbfm9r0w962181560vetgupeug",
+                "name": "Text-to-Image ",
+                "slug": "text-to-image",
+                "count": 16,
+                "description": "Text-to-image uses AI to understand your words and convert them to a unique images",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clcqr2r1143462070bmz9vt49i7",
+                "name": "Text-to-Music",
+                "slug": "text-to-music",
+                "count": 4,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbjie9481020553560v27el2yr0",
+                "name": "Text-to-video",
+                "slug": "text-to-video",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklity4n0rhwx0b864a8avp4r",
+                "name": "Thought experiment generation",
+                "slug": "thought-experiment-generation",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbtdj3wa586788ev5bd700xih5",
+                "name": "Travel",
+                "slug": "travel",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckp8z8u1092bx0b341jufyjvt",
+                "name": "Tutorials",
+                "slug": "tutorials",
+                "count": 8,
+                "description": "Tutorials on GPT-3 app development",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cklbiosxotfai0b862wi049te",
+                "name": "Unit Testing",
+                "slug": "unit-testing",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clg9m49759436506z4dqu90oehx",
+                "name": "Vector Databases",
+                "slug": "vector-databases",
+                "count": 4,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clfkallxl11670956z5egpkhqfl1",
+                "name": "Venture Capital",
+                "slug": "venture-capital",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckm73xxi49t320b593qzft838",
+                "name": "Video",
+                "slug": "video",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clddmd3vs514913jx8ikpzd0v08",
+                "name": "Video Editing",
+                "slug": "video-editing",
+                "count": 3,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbe3kxto591328536n2ukup2vp",
+                "name": "Video Generation",
+                "slug": "video-generation",
+                "count": 7,
+                "description": "Tools for AI video generation and creation",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbxc1q1f14018235g1ngu1xh03n",
+                "name": "Video Search",
+                "slug": "video-search",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldu5qe0w3083786z4ie1qmev7m",
+                "name": "Video-to-video",
+                "slug": "video-to-video",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckl2pr7s3l0t70b73ipcmua10",
+                "name": "Virtual Friends",
+                "slug": "virtual-friends",
+                "count": 2,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbmys3gn69365535bb2ooh3qj",
+                "name": "Voice Assistants",
+                "slug": "voice-assistants",
+                "count": 2,
+                "description": "AI-powered virtual assistants",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cldjgpehc1577538j95dcyg2z1nk",
+                "name": "Voice Cloning",
+                "slug": "voice-cloning",
+                "count": 3,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbhzq9bo14909654akoahes8y8",
+                "name": "Voice-to-Text",
+                "slug": "voice-to-text",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clfn3n6lr15645516z5emzlfpuja",
+                "name": "Weather",
+                "slug": "weather",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cky0qth20h2zb0b62jz3nh17k",
+                "name": "Web Accessibility",
+                "slug": "web-accessibility",
+                "count": 1,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkdgjxmcppae0a09y0132sel",
+                "name": "Web App Development",
+                "slug": "web-app-development",
+                "count": 2,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clg9vmiif1393421705lj1wi0j0s",
+                "name": "Web Scraping",
+                "slug": "web-scraping",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckt7w3hgk60df0a619tnk0bu0",
+                "name": "Web Scraping & Data Extraction",
+                "slug": "web-scraping-and-data-extraction",
+                "count": 3,
+                "description": "GPT-3 to automate anything you can do manually in a browser. 🤖",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckkjv0c0ck4rb0b73dfjdkc0p",
+                "name": "Website Builders",
+                "slug": "website-builders",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "cla1r6zl01046304556uhz81rfwv",
+                "name": "Websites",
+                "slug": "websites",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "ckxws2dxg5mlz0b621jx9600h",
+                "name": "Wireframing",
+                "slug": "wireframing",
+                "count": 1,
+                "description": null,
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            },
+            {
+                "id": "clbjjl4pk1079586560vzsrr4qfz",
+                "name": "Workflow Automation",
+                "slug": "workflow-automation",
+                "count": 3,
+                "description": "",
+                "logo": null,
+                "translations": [],
+                "__typename": "MultiCategory"
+            }
+        ],
+        "productsPreview": [
+            {
+                "id": "clb6yheuq1588068547zhithsfpt",
+                "name": "ChatGPT",
+                "slug": "chatgpt",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "clb6yheuq1588069547z3l4jrnm9",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670012767/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/ChatGPT_zemboy_xk8yff.webp",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "clfdw0ilo2628566z5emey894oa",
+                "name": "Claude",
+                "slug": "claude",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "clfdw0ilo2628576z5e0qf01bw1",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1679139012/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/anthropic-logo_fb47aaa7-9725-42fb-9aeb-889c99cdccf0_r4xcuu_crgdyb.png",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "ckxjmkr4ew2x00d82cmdbbv74",
+                "name": "OpenAI CLIP",
+                "slug": "clip",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "ckxjmlcvvw2ye0d82oowda9v1",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1640303901/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/Screenshot_2021-12-24_at_00.55.52_sjflrg.png",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "cl2xwwk494306164sdgxrzf54nq",
+                "name": "DALL·E",
+                "slug": "dall-e",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "cl2xwwk494306174sdgh3ecgswp",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1652051660/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/openai-dall-e_w6xwmg.webp",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "clcqqts0042268770bm35my2gxe",
+                "name": "DALL·E 2",
+                "slug": "dall-e-2",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "clcqqwlzq42718770bm13zx4m2z",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1673386145/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/DALL.E-A-Shiba-Inu-dog-wearing-a-beret-and-black-turtleneck-2_chicxn_ucjj4m.webp",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "ckt629kjr3zt40a56fl2btdgq",
+                "name": "GPT-2",
+                "slug": "gpt-2",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "ckt629ko23zt50a56pzi1pi2w",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1630776570/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/pqrjl4kvkfqal7hppmyy.jpg",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "ckt62dcg73f2d0b48zarmuxhw",
+                "name": "GPT-3",
+                "slug": "gpt-3",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "ckt62dckf3f2h0b48y1kbpurj",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1630776746/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/x9c7pwasdl3schjxgeei.jpg",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "clfdwy36a3052206z5ewa3udaus",
+                "name": "GPT-4",
+                "slug": "gpt-4",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "clfdwy36a3052216z5ecoqgu3vr",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1679140578/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/08b77be9-ba23-4bca-a724-29b4cac44ba1_x73ffr_w6y7nd.webp",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "ckwq6ysfrbxnz0d62hacfmmjc",
+                "name": "GPT-J",
+                "slug": "gpt-j",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "ckwq6ysjwbxo00d62jjctvzgv",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1638524136/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/ufsyoc3j04foks0dvcwe_vxxnwi.png",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "clf44psnc11430456zyg7m1m8823",
+                "name": "Midjourney",
+                "slug": "midjourney",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "clf44re451166621713ik90rk26a",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1678549041/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/download_1_jvtbe6.jpg",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "ckt62nyzt3fsw0b48caa6snlx",
+                "name": "OpenAI Codex",
+                "slug": "openai-codex",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "ckt62p8lv33vz0a61mjueykdv",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1630777301/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/mzfr7jidet92hn68r17n.png",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "clbtf0dtw652780ev5bavj97xf1",
+                "name": "Stable Diffusion",
+                "slug": "stable-diffusion",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "clbtf0dtw652781ev5b3y8c8hoh",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671370782/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/stability-ai_dtozab.webp",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            },
+            {
+                "id": "clcidjscp1064153913yupmtzeqw",
+                "name": "WebGPT",
+                "slug": "webgpt",
+                "visible": true,
+                "sequence": 1,
+                "logo": {
+                    "id": "clcidjscp1064154913ytpxgjg6q",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672879982/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/products/openai_q5r182_kwckh0.webp",
+                    "__typename": "File"
+                },
+                "translations": [],
+                "__typename": "Product"
+            }
+        ]
+    }
+}
